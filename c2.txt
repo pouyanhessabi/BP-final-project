@@ -1,0 +1,9 @@
+Your sheriff is getting high taxes from people.  
+[1]We need money in this situation, let him do his duty.     
+-10
+0
+10
+[2]Fire him. 
+10
+0
+-10

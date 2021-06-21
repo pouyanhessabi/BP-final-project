@@ -1,0 +1,9 @@
+A poor person wants some money.  
+[1]Help him. 
+10
+0
+-10
+[2]I don't want. 
+-10
+-5
+5

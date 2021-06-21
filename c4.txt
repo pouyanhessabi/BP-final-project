@@ -1,0 +1,9 @@
+People doesn't have anything to eat. 
+[1]feed them. 
+10
+0
+-10
+[2]It's not important. 
+-15
+-5
+10
